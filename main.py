@@ -4,15 +4,6 @@ aplikasi deteksi gempa terkini
 
 
 def ekstraksi_data():
-    """
-    Tanggal : 13 November 2021,
-    Waktu : 20:42:51 WIB
-    Magnitudo : 5.0
-    Kedalaman : 118 km
-    Lokasi : LU = 1.77 LU - BT = 127.35 BT
-    Pusat Gempa : 53 km BaratLaut HALMAHERABARAT-MALUT
-    Dampak : tidak berpotensi TSUNAMI
-    """
     hasil = dict()
     hasil['tanggal'] = '13 November 2021'
     hasil['waktu'] = '20:24:51 WIB'
